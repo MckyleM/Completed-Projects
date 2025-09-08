@@ -1,0 +1,7 @@
+# keep the context tiny; we build inside the container
+.git
+node_modules
+dist
+*.log
+.env
+.DS_Store
